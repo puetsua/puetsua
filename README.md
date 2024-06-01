@@ -4,8 +4,7 @@ A game developer, artist, programmer.
 
 ## You can find here on
 
-- [Plurk](https://www.plurk.com/puetsua) (Mandarin)
-- [Twitter](https://twitter.com/puetsua)
+- [X](https://x.com/puetsua)
 - [itch.io](https://puetsua.itch.io/)
 
 ## GitHub Stats
