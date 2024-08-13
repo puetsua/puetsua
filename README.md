@@ -9,3 +9,7 @@ A game developer, artist, programmer.
 
 ## GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=puetsua&show_icons=true&theme=midnight-purple&count_private=true)
+
+## VRChat
+
+- [VRM Repository](https://vrchat.puetsua.net/vpm)
