@@ -1,6 +1,8 @@
 ## 飛蛇 Pue-Tsuâ 
 
-![rickroll](/rickroll-roll.gif)
+<p align="center">
+  <img src="rickroll-roll.gif" height="250">
+</p>
 
 A game developer, artist, senior programmer.
 
