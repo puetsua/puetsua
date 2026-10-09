@@ -1,5 +1,7 @@
 ## 飛蛇 Pue-Tsuâ 
 
+![rickroll](/rickroll-roll.gif)
+
 A game developer, artist, senior programmer.
 
 ## You can find here on
